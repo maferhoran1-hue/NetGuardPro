@@ -3,7 +3,7 @@ En este repositorio encontraremos el proceso de instalacion,  los requisitos del
 
 NetGuard Pro es una solución de software empresarial para la gestión, optimización y seguridad de redes. Está diseñada para mejorar el rendimiento, reforzar la seguridad y permitir una escalabilidad sin interrupciones en organizaciones de cualquier tamaño.
 
-Características Principales:
+#Características Principales:
 
 -Optimización de red
 
@@ -41,7 +41,7 @@ Vistas y alertas personalizables
 Integración con API para automatización
 
 Requisitos del Sistema:
-*Sistemas Operativos*
+#*Sistemas Operativos*
 
 -Windows Server 2016 / 2019
 
@@ -49,7 +49,7 @@ Requisitos del Sistema:
 
 -macOS 10.15 o superior
 
-*Hardware*
+#*Hardware*
 
 CPU:
 
@@ -75,7 +75,7 @@ Mínimo: 1 Gbps
 
 Recomendado: 10 Gbps
 
-*Instalación*
+#*Instalación*
 Paso 1: Descargar
 
 Ve al sitio oficial de NetGuard Solutions. (www.netguardsolutions.com)
@@ -88,7 +88,7 @@ Paso 2: Instalar
 
 -Ejecuta el instalador y sigue las instrucciones en pantalla.
 
-*Configuración Inicial*
+#*Configuración Inicial*
 
 1. Abre NetGuard Pro después de instalar.
 
@@ -98,13 +98,13 @@ Paso 2: Instalar
 
 3.Configura las credenciales de administrador.
 
-*Activación de Licencia*
+#*Activación de Licencia*
 
 -Ingresa tu clave de licencia o selecciona Iniciar prueba gratuita (30 días).
 
 -Para licencias por volumen, especifica el número de servidores.
 
-*Mejores Prácticas de Seguridad para Cuidar tu Red*
+#*Mejores Prácticas de Seguridad para Cuidar tu Red*
 
 Hoy en día, casi todo lo que hacemos en una empresa o escuela depende de computadoras e internet. Por eso, es muy importante cuidar los sistemas y la información para evitar problemas como virus, robos de datos o fallas en los equipos. NetGuard Solutions busca ayudar a las personas y organizaciones a proteger mejor sus redes y su información.
 
@@ -114,7 +114,7 @@ Otra buena práctica es tener un antivirus y un firewall encendidos, ya que ayud
 
 Finalmente, cada persona solo debe tener acceso a lo que necesita para su trabajo. Con herramientas como las de NetGuard Solutions, es más fácil cuidar la red y trabajar con mayor tranquilidad y seguridad.
 
-*Best Security Practices to Protect Your Network*
+#*Best Security Practices to Protect Your Network*
 
 Today, almost everything we do in a company or school depends on computers and the internet. Because of this, it is very important to protect systems and information to avoid problems like viruses, data theft, or computer failures. NetGuard Solutions aims to help people and organizations better protect their networks and information.
 
@@ -124,7 +124,7 @@ Another good practice is to keep an antivirus and a firewall turned on, because 
 
 Finally, each person should only have access to what they need for their work. With tools like those from NetGuard Solutions, it is easier to protect the network and work with more confidence and security.
 
-*Referencias*
+#*Referencias*
 
 Audidat. “Buenas prácticas de seguridad informática en el día a día.” Audidat, s. f.
 https://www.audidat.com/blog/ciberseguridad/buenas-practicas-seguridad-dia-a-dia/
